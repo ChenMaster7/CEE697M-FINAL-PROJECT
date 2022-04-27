@@ -21,8 +21,7 @@ Each teacher is allowed to choose their own textbook and teaching styles.
 
 Ruger and Smith follow a teaching method that can be defined as the standards-based method. Under this method, the teacher is there to facilitate the learning in a constructivist environment so that students can develop, explore, conjecture and test their conjectures within the confines of the standard. The teacher believes there is research that a majority of children learn more and deeper mathematics and are better problem solvers when in the standards-based classroom.
 
-Wesson follows a teaching method that can be defined as the traditional method. Under this method, the teacher adheres to a top-down approach in which knowledge originates from the
-1 Das, S. (2022, February 23). Student's math score for different teaching style. Kaggle. Retrieved April 11, 2022, from https://www.kaggle.com/datasets/soumyadiptadas/students-math-score-for-different-teaching-style teacher and is disseminated to the students. Traditional teachers tend to thrive on structure and order, resulting in calm learning environments. The teacher believes there is research that indicates certain behavioral issues are minimized in a traditional classroom resulting in effective, direct instruction.
+Wesson follows a teaching method that can be defined as the traditional method. Under this method, the teacher adheres to a top-down approach in which knowledge originates from the teacher and is disseminated to the students. Traditional teachers tend to thrive on structure and order, resulting in calm learning environments. The teacher believes there is research that indicates certain behavioral issues are minimized in a traditional classroom resulting in effective, direct instruction.
 
 ## Methods:
 
